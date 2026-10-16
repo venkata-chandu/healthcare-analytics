@@ -1,0 +1,26 @@
+POWER BI 5-PAGE BUILD SPEC
+
+PAGE 1 — Executive Overview
+Cards: Total Patients, Critical Cases, Admissions, Avg Wait, Bed Occupancy, Avg LOS
+Visuals: patient arrivals by date; emergency vs admission; department workload; triage mix; bed occupancy trend.
+Slicers: Date, Department, Triage.
+
+PAGE 2 — Emergency Department Analytics
+Visuals: arrivals by hour; arrivals by day of week; triage distribution; average waiting time by triage; arrival mode; condition ranking.
+Goal: identify demand peaks and emergency bottlenecks.
+
+PAGE 3 — Patient & Disease Analytics
+Visuals: age bands; gender; condition ranking; condition vs admission rate; region; insurance mix.
+Goal: understand who arrives and why.
+
+PAGE 4 — Hospital Operations & Resources
+Visuals: bed occupancy by department; occupied/available beds; average LOS by department; average wait by department; doctor workload.
+Goal: identify operational bottlenecks.
+
+PAGE 5 — Forecasting & Decision Support
+Use a line chart for daily emergency arrivals with forecast where appropriate.
+Add alert cards:
+- Bed occupancy > 90%
+- Avg waiting time > 30 min
+- Critical cases > threshold
+Add a table of departments with current occupancy, average wait, and demand.

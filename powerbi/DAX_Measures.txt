@@ -1,0 +1,55 @@
+# Power BI DAX measures
+Total Patients = DISTINCTCOUNT(emergency_visits[patient_id])
+
+Emergency Visits = COUNTROWS(emergency_visits)
+
+Critical Cases =
+CALCULATE([Emergency Visits], emergency_visits[triage_level] = "Critical")
+
+Admissions =
+CALCULATE([Emergency Visits], emergency_visits[admission_flag] = 1)
+
+Admission Rate % =
+DIVIDE([Admissions], [Emergency Visits])
+
+Average Waiting Minutes =
+AVERAGE(emergency_visits[waiting_minutes])
+
+Average Treatment Minutes =
+AVERAGE(emergency_visits[treatment_minutes])
+
+Average Length of Stay =
+AVERAGE(emergency_visits[length_of_stay_days])
+
+Average Treatment Cost =
+AVERAGE(emergency_visits[treatment_cost])
+
+Total Treatment Cost =
+SUM(emergency_visits[treatment_cost])
+
+Occupied Beds =
+SUM(bed_utilization[occupied_beds])
+
+Total Beds =
+SUM(bed_utilization[total_beds])
+
+Bed Occupancy % =
+DIVIDE([Occupied Beds], [Total Beds])
+
+Available Beds =
+SUM(bed_utilization[available_beds])
+
+Patients Previous Day =
+CALCULATE([Emergency Visits], DATEADD('Date'[Date], -1, DAY))
+
+Day-over-Day Growth % =
+DIVIDE([Emergency Visits] - [Patients Previous Day], [Patients Previous Day])
+
+Rolling 7 Day Patients =
+CALCULATE([Emergency Visits], DATESINPERIOD('Date'[Date], MAX('Date'[Date]), -7, DAY))
+
+# Recommended model
+# Date[Date] 1:* emergency_visits[arrival_date]
+# Date[Date] 1:* bed_utilization[snapshot_date]
+# patients[patient_id] 1:* emergency_visits[patient_id]
+# doctors[doctor_id] 1:* emergency_visits[doctor_id]

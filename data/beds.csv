@@ -1,0 +1,201 @@
+bed_id,department,bed_type,status
+BED001,Emergency,General,Occupied
+BED002,Emergency,General,Occupied
+BED003,Emergency,General,Available
+BED004,Emergency,General,Occupied
+BED005,Emergency,General,Available
+BED006,Emergency,General,Available
+BED007,Emergency,General,Occupied
+BED008,Emergency,General,Maintenance
+BED009,Emergency,General,Occupied
+BED010,Emergency,General,Occupied
+BED011,Emergency,General,Occupied
+BED012,Emergency,General,Occupied
+BED013,Emergency,General,Occupied
+BED014,Emergency,General,Occupied
+BED015,Emergency,General,Available
+BED016,Emergency,General,Available
+BED017,Emergency,General,Occupied
+BED018,Emergency,General,Occupied
+BED019,Emergency,General,Occupied
+BED020,Emergency,General,Occupied
+BED021,Emergency,General,Available
+BED022,Emergency,General,Occupied
+BED023,Emergency,General,Occupied
+BED024,Emergency,General,Occupied
+BED025,Emergency,General,Occupied
+BED026,Emergency,General,Available
+BED027,Emergency,General,Available
+BED028,Emergency,General,Occupied
+BED029,Emergency,General,Occupied
+BED030,Emergency,General,Occupied
+BED031,Emergency,General,Occupied
+BED032,Emergency,General,Available
+BED033,Emergency,General,Occupied
+BED034,Emergency,General,Occupied
+BED035,Emergency,General,Maintenance
+BED036,Emergency,General,Available
+BED037,Emergency,General,Occupied
+BED038,Emergency,General,Occupied
+BED039,Emergency,General,Occupied
+BED040,Emergency,General,Maintenance
+BED041,ICU,ICU,Occupied
+BED042,ICU,ICU,Occupied
+BED043,ICU,ICU,Occupied
+BED044,ICU,ICU,Occupied
+BED045,ICU,ICU,Maintenance
+BED046,ICU,ICU,Occupied
+BED047,ICU,ICU,Available
+BED048,ICU,ICU,Occupied
+BED049,ICU,ICU,Occupied
+BED050,ICU,ICU,Occupied
+BED051,ICU,ICU,Occupied
+BED052,ICU,ICU,Occupied
+BED053,ICU,ICU,Available
+BED054,ICU,ICU,Available
+BED055,ICU,ICU,Available
+BED056,ICU,ICU,Available
+BED057,ICU,ICU,Available
+BED058,ICU,ICU,Occupied
+BED059,ICU,ICU,Occupied
+BED060,ICU,ICU,Occupied
+BED061,General Medicine,General,Occupied
+BED062,General Medicine,General,Occupied
+BED063,General Medicine,General,Occupied
+BED064,General Medicine,General,Occupied
+BED065,General Medicine,General,Occupied
+BED066,General Medicine,General,Maintenance
+BED067,General Medicine,General,Occupied
+BED068,General Medicine,General,Available
+BED069,General Medicine,General,Maintenance
+BED070,General Medicine,General,Occupied
+BED071,General Medicine,General,Maintenance
+BED072,General Medicine,General,Maintenance
+BED073,General Medicine,General,Occupied
+BED074,General Medicine,General,Available
+BED075,General Medicine,General,Occupied
+BED076,General Medicine,General,Available
+BED077,General Medicine,General,Occupied
+BED078,General Medicine,General,Occupied
+BED079,General Medicine,General,Occupied
+BED080,General Medicine,General,Occupied
+BED081,General Medicine,General,Occupied
+BED082,General Medicine,General,Occupied
+BED083,General Medicine,General,Occupied
+BED084,General Medicine,General,Occupied
+BED085,General Medicine,General,Occupied
+BED086,General Medicine,General,Occupied
+BED087,General Medicine,General,Occupied
+BED088,General Medicine,General,Available
+BED089,General Medicine,General,Occupied
+BED090,General Medicine,General,Occupied
+BED091,General Medicine,General,Maintenance
+BED092,General Medicine,General,Occupied
+BED093,General Medicine,General,Maintenance
+BED094,General Medicine,General,Occupied
+BED095,General Medicine,General,Available
+BED096,General Medicine,General,Occupied
+BED097,General Medicine,General,Occupied
+BED098,General Medicine,General,Occupied
+BED099,General Medicine,General,Occupied
+BED100,General Medicine,General,Occupied
+BED101,General Medicine,General,Occupied
+BED102,General Medicine,General,Available
+BED103,General Medicine,General,Occupied
+BED104,General Medicine,General,Available
+BED105,General Medicine,General,Occupied
+BED106,General Medicine,General,Available
+BED107,General Medicine,General,Occupied
+BED108,General Medicine,General,Occupied
+BED109,General Medicine,General,Occupied
+BED110,General Medicine,General,Occupied
+BED111,General Medicine,General,Occupied
+BED112,General Medicine,General,Occupied
+BED113,General Medicine,General,Occupied
+BED114,General Medicine,General,Occupied
+BED115,General Medicine,General,Available
+BED116,General Medicine,General,Available
+BED117,General Medicine,General,Occupied
+BED118,General Medicine,General,Occupied
+BED119,General Medicine,General,Available
+BED120,General Medicine,General,Occupied
+BED121,Cardiology,Cardiac,Occupied
+BED122,Cardiology,Cardiac,Available
+BED123,Cardiology,Cardiac,Maintenance
+BED124,Cardiology,Cardiac,Available
+BED125,Cardiology,Cardiac,Occupied
+BED126,Cardiology,Cardiac,Available
+BED127,Cardiology,Cardiac,Occupied
+BED128,Cardiology,Cardiac,Available
+BED129,Cardiology,Cardiac,Maintenance
+BED130,Cardiology,Cardiac,Occupied
+BED131,Cardiology,Cardiac,Occupied
+BED132,Cardiology,Cardiac,Occupied
+BED133,Cardiology,Cardiac,Occupied
+BED134,Cardiology,Cardiac,Maintenance
+BED135,Cardiology,Cardiac,Available
+BED136,Cardiology,Cardiac,Occupied
+BED137,Cardiology,Cardiac,Occupied
+BED138,Cardiology,Cardiac,Occupied
+BED139,Cardiology,Cardiac,Available
+BED140,Cardiology,Cardiac,Occupied
+BED141,Cardiology,Cardiac,Occupied
+BED142,Cardiology,Cardiac,Available
+BED143,Cardiology,Cardiac,Occupied
+BED144,Cardiology,Cardiac,Available
+BED145,Cardiology,Cardiac,Available
+BED146,Orthopedics,General,Occupied
+BED147,Orthopedics,General,Available
+BED148,Orthopedics,General,Occupied
+BED149,Orthopedics,General,Occupied
+BED150,Orthopedics,General,Maintenance
+BED151,Orthopedics,General,Occupied
+BED152,Orthopedics,General,Available
+BED153,Orthopedics,General,Available
+BED154,Orthopedics,General,Occupied
+BED155,Orthopedics,General,Occupied
+BED156,Orthopedics,General,Available
+BED157,Orthopedics,General,Occupied
+BED158,Orthopedics,General,Occupied
+BED159,Orthopedics,General,Available
+BED160,Orthopedics,General,Occupied
+BED161,Orthopedics,General,Occupied
+BED162,Orthopedics,General,Available
+BED163,Orthopedics,General,Maintenance
+BED164,Orthopedics,General,Available
+BED165,Orthopedics,General,Occupied
+BED166,Orthopedics,General,Available
+BED167,Orthopedics,General,Occupied
+BED168,Orthopedics,General,Occupied
+BED169,Orthopedics,General,Occupied
+BED170,Orthopedics,General,Occupied
+BED171,Orthopedics,General,Available
+BED172,Orthopedics,General,Occupied
+BED173,Orthopedics,General,Occupied
+BED174,Orthopedics,General,Occupied
+BED175,Orthopedics,General,Available
+BED176,Pediatrics,Pediatric,Available
+BED177,Pediatrics,Pediatric,Occupied
+BED178,Pediatrics,Pediatric,Occupied
+BED179,Pediatrics,Pediatric,Occupied
+BED180,Pediatrics,Pediatric,Maintenance
+BED181,Pediatrics,Pediatric,Occupied
+BED182,Pediatrics,Pediatric,Available
+BED183,Pediatrics,Pediatric,Occupied
+BED184,Pediatrics,Pediatric,Available
+BED185,Pediatrics,Pediatric,Occupied
+BED186,Pediatrics,Pediatric,Occupied
+BED187,Pediatrics,Pediatric,Occupied
+BED188,Pediatrics,Pediatric,Occupied
+BED189,Pediatrics,Pediatric,Occupied
+BED190,Pediatrics,Pediatric,Occupied
+BED191,Pediatrics,Pediatric,Occupied
+BED192,Pediatrics,Pediatric,Occupied
+BED193,Pediatrics,Pediatric,Occupied
+BED194,Pediatrics,Pediatric,Occupied
+BED195,Pediatrics,Pediatric,Occupied
+BED196,Pediatrics,Pediatric,Occupied
+BED197,Pediatrics,Pediatric,Available
+BED198,Pediatrics,Pediatric,Occupied
+BED199,Pediatrics,Pediatric,Maintenance
+BED200,Pediatrics,Pediatric,Occupied

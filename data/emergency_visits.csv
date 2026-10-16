@@ -1,0 +1,201 @@
+visit_id,patient_id,arrival_datetime,arrival_date,arrival_hour,day_name,triage_level,arrival_mode,condition,department,waiting_minutes,treatment_minutes,admission_flag,outcome,discharge_datetime,length_of_stay_days,doctor_id,treatment_cost
+EV00200,P0001,2026-07-22 21:01:55,2026-07-22,21,Wednesday,High,Ambulance,Asthma Attack,General Medicine,9,51,1,Transferred,2026-07-23 23:01:55,1.0,DOC003,5597.57
+EV00200,P0002,2026-06-25 07:46:45,2026-06-25,7,Thursday,Low,Walk-in,Fever/Infection,General Medicine,55,19,0,Observation,2026-06-25 11:00:45,0.13,DOC003,9185.86
+EV00200,P0003,2026-05-19 01:12:30,2026-05-19,1,Tuesday,High,Walk-in,Hypertensive Crisis,Cardiology,11,34,0,Discharged,2026-05-19 02:57:30,0.07,DOC004,4951.32
+EV00200,P0004,2026-06-08 02:11:04,2026-06-08,2,Monday,Moderate,Walk-in,Stroke Symptoms,Emergency,25,16,0,Discharged,2026-06-08 03:52:04,0.07,DOC001,5860.85
+EV00200,P0005,2026-06-07 07:17:30,2026-06-07,7,Sunday,High,Ambulance,Diabetes Complication,Pediatrics,19,44,1,Transferred,2026-06-10 13:20:30,3.0,DOC006,12889.11
+EV00200,P0006,2026-04-16 11:07:26,2026-04-16,11,Thursday,High,Walk-in,Abdominal Pain,General Medicine,19,60,1,Admitted,2026-04-19 16:26:26,3.0,DOC003,13262.86
+EV00200,P0007,2026-07-23 23:58:12,2026-07-23,23,Thursday,High,Walk-in,Severe Headache,Emergency,30,57,1,Discharged,2026-07-27 09:25:12,3.0,DOC001,2977.23
+EV00200,P0008,2026-01-18 22:14:13,2026-01-18,22,Sunday,Moderate,Ambulance,Chest Pain,Cardiology,46,52,0,Discharged,2026-01-19 04:52:13,0.28,DOC004,5690.64
+EV00200,P0009,2026-07-06 03:56:23,2026-07-06,3,Monday,Moderate,Referral,Stroke Symptoms,Pediatrics,34,58,1,Discharged,2026-07-07 15:28:23,1.0,DOC006,12606.96
+EV00200,P0010,2026-03-01 04:11:53,2026-03-01,4,Sunday,Low,Referral,Breathing Difficulty,General Medicine,51,32,0,Observation,2026-03-01 10:34:53,0.27,DOC003,11053.38
+EV00200,P0011,2026-08-29 10:04:36,2026-08-29,10,Saturday,Low,Walk-in,Fever/Infection,General Medicine,53,33,0,Observation,2026-08-29 14:30:36,0.18,DOC003,10580.43
+EV00200,P0012,2026-01-24 15:23:13,2026-01-24,15,Saturday,Low,Walk-in,Severe Headache,Emergency,46,26,1,Discharged,2026-01-25 18:35:13,1.0,DOC001,4925.68
+EV00200,P0013,2026-08-03 14:56:26,2026-08-03,14,Monday,High,Walk-in,Accident/Trauma,Orthopedics,14,42,1,Transferred,2026-08-04 22:52:26,1.0,DOC005,2024.29
+EV00200,P0014,2026-04-01 21:40:03,2026-04-01,21,Wednesday,Low,Ambulance,Abdominal Pain,General Medicine,37,10,0,Discharged,2026-04-02 04:27:03,0.28,DOC003,3362.62
+EV00200,P0015,2026-04-14 09:52:26,2026-04-14,9,Tuesday,High,Walk-in,Burn Injury,Emergency,2,59,0,Observation,2026-04-14 14:53:26,0.21,DOC001,2938.88
+EV00200,P0016,2026-09-25 16:56:38,2026-09-25,16,Friday,Moderate,Referral,Abdominal Pain,General Medicine,24,20,1,Discharged,2026-09-27 23:40:38,2.0,DOC003,13433.98
+EV00200,P0017,2026-08-23 17:01:08,2026-08-23,17,Sunday,Critical,Walk-in,Abdominal Pain,General Medicine,2,48,0,Discharged,2026-08-23 23:51:08,0.28,DOC003,26871.2
+EV00200,P0018,2026-08-13 01:00:40,2026-08-13,1,Thursday,Low,Walk-in,Chest Pain,Cardiology,41,23,1,Observation,2026-08-14 03:04:40,1.0,DOC004,8884.18
+EV00200,P0019,2026-06-08 20:04:48,2026-06-08,20,Monday,Moderate,Walk-in,Fracture,Orthopedics,28,41,0,Observation,2026-06-09 02:13:48,0.26,DOC005,1431.19
+EV00200,P0020,2026-02-04 10:46:36,2026-02-04,10,Wednesday,High,Walk-in,Fracture,Orthopedics,24,58,0,Discharged,2026-02-04 18:08:36,0.31,DOC005,15753.12
+EV00200,P0021,2026-06-29 15:55:53,2026-06-29,15,Monday,Critical,Walk-in,Pediatric Fever,Pediatrics,2,59,1,Discharged,2026-07-01 19:56:53,2.0,DOC006,9708.06
+EV00200,P0022,2026-02-21 03:07:54,2026-02-21,3,Saturday,Moderate,Ambulance,Abdominal Pain,General Medicine,50,57,0,Discharged,2026-02-21 10:54:54,0.32,DOC003,3524.1
+EV00200,P0023,2026-08-03 04:11:30,2026-08-03,4,Monday,Moderate,Walk-in,Chest Pain,Cardiology,52,33,0,Discharged,2026-08-03 11:36:30,0.31,DOC004,15112.86
+EV00200,P0024,2026-07-13 19:11:46,2026-07-13,19,Monday,High,Ambulance,Diabetes Complication,General Medicine,10,61,1,Observation,2026-07-15 05:22:46,1.0,DOC003,9541.74
+EV00200,P0025,2026-02-23 06:20:59,2026-02-23,6,Monday,Critical,Ambulance,Burn Injury,Emergency,5,76,0,Observation,2026-02-23 08:41:59,0.1,DOC001,10196.69
+EV00200,P0026,2026-04-27 04:44:31,2026-04-27,4,Monday,Moderate,Referral,Burn Injury,Pediatrics,29,28,0,Observation,2026-04-27 08:41:31,0.16,DOC006,10292.98
+EV00200,P0027,2026-07-31 07:08:07,2026-07-31,7,Friday,Moderate,Walk-in,Pediatric Fever,Pediatrics,35,41,0,Discharged,2026-07-31 12:24:07,0.22,DOC006,1550.73
+EV00200,P0028,2026-07-03 22:27:29,2026-07-03,22,Friday,Low,Walk-in,Diabetes Complication,General Medicine,61,46,0,Discharged,2026-07-04 04:14:29,0.24,DOC003,17394.98
+EV00200,P0029,2026-02-19 06:42:01,2026-02-19,6,Thursday,Low,Walk-in,Allergic Reaction,Emergency,48,43,1,Observation,2026-02-22 08:13:01,3.0,DOC001,13226.03
+EV00200,P0030,2026-06-09 11:16:39,2026-06-09,11,Tuesday,Moderate,Walk-in,Burn Injury,Emergency,14,41,1,Observation,2026-06-10 22:11:39,1.0,DOC001,15580.69
+EV00200,P0031,2026-05-28 19:56:39,2026-05-28,19,Thursday,Moderate,Referral,Fracture,Orthopedics,22,20,0,Discharged,2026-05-29 02:38:39,0.28,DOC005,12571.67
+EV00200,P0032,2026-04-22 20:33:59,2026-04-22,20,Wednesday,Moderate,Walk-in,Fever/Infection,General Medicine,35,48,0,Observation,2026-04-22 23:56:59,0.14,DOC003,12736.82
+EV00200,P0033,2026-01-12 11:48:28,2026-01-12,11,Monday,Moderate,Walk-in,Chest Pain,Cardiology,41,26,1,Observation,2026-01-15 21:55:28,3.0,DOC004,12526.97
+EV00200,P0034,2026-03-12 04:15:06,2026-03-12,4,Thursday,High,Ambulance,Breathing Difficulty,Pediatrics,9,67,1,Admitted,2026-03-14 12:31:06,2.0,DOC006,5191.62
+EV00200,P0035,2026-01-04 21:35:25,2026-01-04,21,Sunday,Moderate,Walk-in,Hypertensive Crisis,Cardiology,46,30,0,Observation,2026-01-05 04:51:25,0.3,DOC004,17346.9
+EV00200,P0036,2026-09-26 08:11:17,2026-09-26,8,Saturday,Moderate,Walk-in,Abdominal Pain,Pediatrics,34,58,1,Observation,2026-09-28 18:43:17,2.0,DOC006,6974.1
+EV00200,P0037,2026-04-26 03:43:49,2026-04-26,3,Sunday,High,Referral,Diabetes Complication,General Medicine,14,46,0,Discharged,2026-04-26 09:43:49,0.25,DOC003,13616.96
+EV00200,P0038,2026-04-22 09:31:22,2026-04-22,9,Wednesday,Low,Ambulance,Hypertensive Crisis,Cardiology,43,38,0,Discharged,2026-04-22 16:52:22,0.31,DOC004,2471.22
+EV00200,P0039,2026-09-01 22:20:00,2026-09-01,22,Tuesday,Critical,Ambulance,Asthma Attack,General Medicine,15,72,1,Transferred,2026-09-04 02:47:00,2.0,DOC003,5531.67
+EV00200,P0040,2026-07-29 17:38:40,2026-07-29,17,Wednesday,Moderate,Referral,Fracture,Orthopedics,42,39,0,Observation,2026-07-29 21:59:40,0.18,DOC005,13640.82
+EV00200,P0041,2026-05-12 19:03:17,2026-05-12,19,Tuesday,High,Referral,Hypertensive Crisis,Cardiology,12,74,0,Observation,2026-05-13 01:29:17,0.27,DOC004,7091.33
+EV00200,P0042,2026-06-03 11:42:05,2026-06-03,11,Wednesday,High,Walk-in,Chest Pain,Cardiology,34,41,1,Observation,2026-06-06 22:57:05,3.0,DOC004,16973.02
+EV00200,P0043,2026-02-12 07:51:31,2026-02-12,7,Thursday,High,Walk-in,Asthma Attack,General Medicine,25,44,0,Discharged,2026-02-12 15:00:31,0.3,DOC003,1887.33
+EV00200,P0044,2026-06-30 13:17:13,2026-06-30,13,Tuesday,Moderate,Walk-in,Diabetes Complication,General Medicine,47,57,1,Observation,2026-07-02 23:01:13,2.0,DOC003,3133.42
+EV00200,P0045,2026-06-26 10:15:58,2026-06-26,10,Friday,Moderate,Ambulance,Fracture,Orthopedics,38,46,0,Discharged,2026-06-26 15:39:58,0.23,DOC005,12064.66
+EV00200,P0046,2026-07-10 07:02:41,2026-07-10,7,Friday,Moderate,Referral,Severe Headache,Emergency,32,46,0,Discharged,2026-07-10 11:20:41,0.18,DOC001,2508.9
+EV00200,P0047,2026-09-24 13:00:11,2026-09-24,13,Thursday,Moderate,Referral,Fracture,Orthopedics,36,27,1,Discharged,2026-09-27 21:03:11,3.0,DOC005,2376.78
+EV00200,P0048,2026-03-24 14:58:10,2026-03-24,14,Tuesday,Moderate,Referral,Asthma Attack,General Medicine,41,38,0,Discharged,2026-03-24 17:17:10,0.1,DOC003,15072.87
+EV00200,P0049,2026-08-04 11:35:27,2026-08-04,11,Tuesday,Moderate,Ambulance,Fever/Infection,General Medicine,36,55,0,Discharged,2026-08-04 16:06:27,0.19,DOC003,15564.59
+EV00200,P0050,2026-02-26 10:35:22,2026-02-26,10,Thursday,Moderate,Ambulance,Breathing Difficulty,General Medicine,47,50,1,Transferred,2026-02-28 17:12:22,2.0,DOC003,1071.43
+EV00200,P0051,2026-04-14 07:24:16,2026-04-14,7,Tuesday,High,Walk-in,Chest Pain,Cardiology,12,58,1,Transferred,2026-04-16 16:34:16,2.0,DOC004,11011.06
+EV00200,P0052,2026-06-25 18:59:45,2026-06-25,18,Thursday,High,Ambulance,Allergic Reaction,Emergency,15,29,0,Observation,2026-06-25 23:43:45,0.2,DOC001,11865.46
+EV00200,P0053,2026-01-13 08:20:42,2026-01-13,8,Tuesday,Low,Ambulance,Chest Pain,Cardiology,46,27,0,Observation,2026-01-13 10:33:42,0.09,DOC004,16267.39
+EV00200,P0054,2026-05-06 08:17:59,2026-05-06,8,Wednesday,High,Walk-in,Severe Headache,Emergency,10,43,0,Observation,2026-05-06 14:10:59,0.25,DOC001,9925.58
+EV00200,P0055,2026-06-26 10:56:03,2026-06-26,10,Friday,Moderate,Walk-in,Allergic Reaction,Emergency,30,12,0,Discharged,2026-06-26 15:38:03,0.2,DOC001,8566.74
+EV00200,P0056,2026-03-30 23:42:52,2026-03-30,23,Monday,Moderate,Walk-in,Pediatric Fever,Pediatrics,31,37,0,Observation,2026-03-31 03:50:52,0.17,DOC006,17201.79
+EV00200,P0057,2026-09-24 23:38:09,2026-09-24,23,Thursday,Critical,Ambulance,Stroke Symptoms,Emergency,11,72,0,Discharged,2026-09-25 06:01:09,0.27,DOC001,3297.01
+EV00200,P0058,2026-08-07 08:21:53,2026-08-07,8,Friday,Moderate,Walk-in,Allergic Reaction,Emergency,27,49,0,Discharged,2026-08-07 12:37:53,0.18,DOC001,11127.05
+EV00200,P0059,2026-05-17 19:34:48,2026-05-17,19,Sunday,Moderate,Walk-in,Accident/Trauma,Orthopedics,31,27,1,Transferred,2026-05-20 23:32:48,3.0,DOC005,14684.21
+EV00200,P0060,2026-08-07 02:34:45,2026-08-07,2,Friday,Low,Ambulance,Hypertensive Crisis,Cardiology,54,23,0,Observation,2026-08-07 04:51:45,0.1,DOC004,3903.16
+EV00200,P0061,2026-05-01 05:56:45,2026-05-01,5,Friday,Moderate,Walk-in,Fracture,Orthopedics,33,45,1,Discharged,2026-05-04 08:14:45,3.0,DOC005,13633.12
+EV00200,P0062,2026-03-25 19:11:01,2026-03-25,19,Wednesday,Moderate,Walk-in,Pediatric Fever,Pediatrics,26,48,0,Discharged,2026-03-25 21:25:01,0.09,DOC006,3475.97
+EV00200,P0063,2026-08-29 04:40:09,2026-08-29,4,Saturday,Moderate,Walk-in,Chest Pain,Cardiology,30,23,0,Observation,2026-08-29 07:33:09,0.12,DOC004,13785.02
+EV00200,P0064,2026-02-14 10:51:21,2026-02-14,10,Saturday,Moderate,Walk-in,Fracture,Orthopedics,30,22,0,Discharged,2026-02-14 13:43:21,0.12,DOC005,7598.53
+EV00200,P0065,2026-08-22 00:06:48,2026-08-22,0,Saturday,Critical,Walk-in,Chest Pain,Cardiology,9,76,1,Transferred,2026-08-26 07:31:48,4.0,DOC004,6879.51
+EV00200,P0066,2026-05-28 21:47:24,2026-05-28,21,Thursday,Moderate,Walk-in,Allergic Reaction,Emergency,41,45,1,Discharged,2026-05-30 05:13:24,1.0,DOC001,1122.35
+EV00200,P0067,2026-01-31 11:43:55,2026-01-31,11,Saturday,Moderate,Walk-in,Burn Injury,Emergency,25,44,1,Observation,2026-02-03 21:52:55,3.0,DOC001,8713.67
+EV00200,P0068,2026-09-26 01:37:53,2026-09-26,1,Saturday,High,Ambulance,Fracture,Orthopedics,18,55,1,Observation,2026-09-30 06:50:53,4.0,DOC005,13627.84
+EV00200,P0069,2026-03-28 07:12:04,2026-03-28,7,Saturday,Low,Walk-in,Fracture,Orthopedics,43,14,1,Transferred,2026-03-29 18:09:04,1.0,DOC005,14818.64
+EV00200,P0070,2026-04-03 00:11:07,2026-04-03,0,Friday,High,Walk-in,Accident/Trauma,Orthopedics,34,38,0,Discharged,2026-04-03 07:23:07,0.3,DOC005,9298.81
+EV00200,P0071,2026-08-08 04:23:43,2026-08-08,4,Saturday,Moderate,Ambulance,Hypertensive Crisis,Cardiology,26,47,0,Observation,2026-08-08 11:36:43,0.3,DOC004,6237.59
+EV00200,P0072,2026-06-21 00:53:11,2026-06-21,0,Sunday,Moderate,Ambulance,Accident/Trauma,Orthopedics,27,39,0,Discharged,2026-06-21 04:59:11,0.17,DOC005,8741.97
+EV00200,P0073,2026-01-15 20:31:29,2026-01-15,20,Thursday,Moderate,Walk-in,Chest Pain,Cardiology,24,14,1,Observation,2026-01-17 04:09:29,1.0,DOC004,10781.67
+EV00200,P0074,2026-01-17 04:21:33,2026-01-17,4,Saturday,Low,Walk-in,Stroke Symptoms,Emergency,54,40,0,Discharged,2026-01-17 09:55:33,0.23,DOC001,2580.23
+EV00200,P0075,2026-05-14 15:04:19,2026-05-14,15,Thursday,High,Ambulance,Diabetes Complication,General Medicine,30,59,0,Discharged,2026-05-14 19:33:19,0.19,DOC003,7213.05
+EV00200,P0076,2026-04-21 02:45:33,2026-04-21,2,Tuesday,Moderate,Walk-in,Pediatric Fever,Pediatrics,23,22,0,Discharged,2026-04-21 06:30:33,0.16,DOC006,2425.5
+EV00200,P0077,2026-09-21 16:57:13,2026-09-21,16,Monday,High,Ambulance,Pediatric Fever,Pediatrics,8,33,0,Observation,2026-09-21 18:38:13,0.07,DOC006,10823.12
+EV00200,P0078,2026-02-25 04:12:28,2026-02-25,4,Wednesday,Moderate,Ambulance,Fracture,Orthopedics,32,29,0,Discharged,2026-02-25 08:13:28,0.17,DOC005,10413.46
+EV00200,P0079,2026-09-08 03:47:30,2026-09-08,3,Tuesday,Moderate,Walk-in,Hypertensive Crisis,Cardiology,29,10,0,Discharged,2026-09-08 10:26:30,0.28,DOC004,12331.84
+EV00200,P0080,2026-07-17 17:27:22,2026-07-17,17,Friday,Critical,Walk-in,Fracture,Orthopedics,14,66,0,Discharged,2026-07-17 20:47:22,0.14,DOC005,32399.28
+EV00200,P0081,2026-03-02 10:11:37,2026-03-02,10,Monday,High,Ambulance,Accident/Trauma,Orthopedics,8,54,0,Discharged,2026-03-02 17:13:37,0.29,DOC005,6592.35
+EV00200,P0082,2026-08-29 06:28:14,2026-08-29,6,Saturday,Moderate,Walk-in,Breathing Difficulty,General Medicine,40,51,0,Discharged,2026-08-29 13:59:14,0.31,DOC003,8327.98
+EV00200,P0083,2026-06-09 19:28:47,2026-06-09,19,Tuesday,Moderate,Walk-in,Fracture,Orthopedics,28,38,0,Observation,2026-06-09 22:34:47,0.13,DOC005,9984.99
+EV00200,P0084,2026-05-01 10:26:59,2026-05-01,10,Friday,Low,Referral,Hypertensive Crisis,Cardiology,54,41,0,Observation,2026-05-01 16:01:59,0.23,DOC004,14034.34
+EV00200,P0085,2026-05-29 13:18:32,2026-05-29,13,Friday,Moderate,Referral,Allergic Reaction,Emergency,40,15,1,Transferred,2026-06-01 19:13:32,3.0,DOC001,10338.1
+EV00200,P0086,2026-02-10 02:12:20,2026-02-10,2,Tuesday,Low,Referral,Diabetes Complication,General Medicine,52,20,1,Admitted,2026-02-14 09:24:20,4.0,DOC003,2377.47
+EV00200,P0087,2026-03-28 11:32:39,2026-03-28,11,Saturday,Moderate,Walk-in,Burn Injury,Emergency,37,35,0,Discharged,2026-03-28 16:44:39,0.22,DOC001,17905.84
+EV00200,P0088,2026-05-26 20:26:21,2026-05-26,20,Tuesday,Critical,Referral,Fever/Infection,General Medicine,14,55,0,Discharged,2026-05-26 22:35:21,0.09,DOC003,10321.79
+EV00200,P0089,2026-07-03 17:35:56,2026-07-03,17,Friday,Low,Ambulance,Diabetes Complication,General Medicine,39,28,0,Discharged,2026-07-03 21:42:56,0.17,DOC003,4509.26
+EV00200,P0090,2026-02-28 07:37:25,2026-02-28,7,Saturday,Low,Ambulance,Allergic Reaction,Emergency,37,34,1,Discharged,2026-03-03 17:48:25,3.0,DOC001,8662.35
+EV00200,P0091,2026-02-13 07:16:13,2026-02-13,7,Friday,Low,Walk-in,Burn Injury,Emergency,52,39,1,Admitted,2026-02-15 12:47:13,2.0,DOC001,8182.91
+EV00200,P0092,2026-08-28 00:26:26,2026-08-28,0,Friday,High,Walk-in,Fracture,Orthopedics,16,50,0,Discharged,2026-08-28 06:32:26,0.25,DOC005,10158.21
+EV00200,P0093,2026-07-17 09:23:07,2026-07-17,9,Friday,Critical,Referral,Allergic Reaction,Emergency,15,73,1,Discharged,2026-07-20 13:51:07,3.0,DOC001,24131.85
+EV00200,P0094,2026-09-02 05:46:45,2026-09-02,5,Wednesday,Low,Ambulance,Accident/Trauma,Orthopedics,52,23,0,Discharged,2026-09-02 13:01:45,0.3,DOC005,8791.51
+EV00200,P0095,2026-09-28 07:29:51,2026-09-28,7,Monday,Moderate,Ambulance,Stroke Symptoms,Emergency,37,54,0,Observation,2026-09-28 11:00:51,0.15,DOC001,1553.47
+EV00200,P0096,2026-03-19 17:11:36,2026-03-19,17,Thursday,Moderate,Walk-in,Chest Pain,Cardiology,40,17,0,Discharged,2026-03-20 00:08:36,0.29,DOC004,4086.98
+EV00200,P0097,2026-05-19 21:14:25,2026-05-19,21,Tuesday,Low,Referral,Burn Injury,Emergency,58,21,0,Observation,2026-05-20 04:33:25,0.3,DOC001,8363.47
+EV00200,P0098,2026-05-31 09:47:25,2026-05-31,9,Sunday,Low,Walk-in,Fracture,Orthopedics,53,10,0,Discharged,2026-05-31 16:50:25,0.29,DOC005,8101.39
+EV00200,P0099,2026-06-17 11:32:58,2026-06-17,11,Wednesday,Low,Walk-in,Severe Headache,Emergency,50,23,1,Transferred,2026-06-19 16:45:58,2.0,DOC001,8469.75
+EV00200,P0100,2026-06-15 17:41:22,2026-06-15,17,Monday,Moderate,Walk-in,Breathing Difficulty,General Medicine,50,41,0,Observation,2026-06-15 22:12:22,0.19,DOC003,11798.87
+EV00200,P0101,2026-01-23 12:36:57,2026-01-23,12,Friday,Moderate,Walk-in,Accident/Trauma,Orthopedics,21,33,1,Discharged,2026-01-26 20:30:57,3.0,DOC005,1398.54
+EV00200,P0102,2026-01-27 08:39:37,2026-01-27,8,Tuesday,Low,Walk-in,Fever/Infection,General Medicine,58,13,0,Observation,2026-01-27 12:50:37,0.17,DOC003,7198.63
+EV00200,P0103,2026-01-31 02:37:26,2026-01-31,2,Saturday,High,Walk-in,Severe Headache,Emergency,24,51,0,Discharged,2026-01-31 09:52:26,0.3,DOC001,4000.03
+EV00200,P0104,2026-07-21 07:44:08,2026-07-21,7,Tuesday,Low,Walk-in,Pediatric Fever,Pediatrics,55,27,1,Transferred,2026-07-22 16:06:08,1.0,DOC006,4243.07
+EV00200,P0105,2026-02-22 23:04:49,2026-02-22,23,Sunday,Critical,Walk-in,Burn Injury,Pediatrics,2,29,0,Observation,2026-02-23 05:35:49,0.27,DOC006,12196.29
+EV00200,P0106,2026-01-26 11:16:33,2026-01-26,11,Monday,Moderate,Referral,Allergic Reaction,Emergency,42,19,0,Discharged,2026-01-26 15:17:33,0.17,DOC001,9550.6
+EV00200,P0107,2026-02-17 09:10:48,2026-02-17,9,Tuesday,Low,Walk-in,Fever/Infection,General Medicine,42,25,0,Observation,2026-02-17 15:17:48,0.25,DOC003,3032.07
+EV00200,P0108,2026-02-03 17:35:11,2026-02-03,17,Tuesday,Moderate,Referral,Accident/Trauma,Orthopedics,33,20,0,Discharged,2026-02-03 20:28:11,0.12,DOC005,17524.93
+EV00200,P0109,2026-09-07 17:01:46,2026-09-07,17,Monday,Moderate,Ambulance,Accident/Trauma,Orthopedics,25,55,0,Discharged,2026-09-07 20:21:46,0.14,DOC005,8241.03
+EV00200,P0110,2026-01-22 18:29:06,2026-01-22,18,Thursday,High,Walk-in,Burn Injury,Emergency,21,64,0,Observation,2026-01-23 00:54:06,0.27,DOC001,16192.73
+EV00200,P0111,2026-01-31 21:01:39,2026-01-31,21,Saturday,High,Referral,Abdominal Pain,General Medicine,16,71,0,Discharged,2026-02-01 03:28:39,0.27,DOC003,11824.98
+EV00200,P0112,2026-08-19 02:03:16,2026-08-19,2,Wednesday,High,Ambulance,Severe Headache,Emergency,15,38,0,Discharged,2026-08-19 03:56:16,0.08,DOC001,2197.03
+EV00200,P0113,2026-09-07 08:46:55,2026-09-07,8,Monday,Moderate,Ambulance,Hypertensive Crisis,Cardiology,35,22,0,Observation,2026-09-07 15:43:55,0.29,DOC004,10183.93
+EV00200,P0114,2026-09-07 13:00:34,2026-09-07,13,Monday,Moderate,Ambulance,Abdominal Pain,General Medicine,32,25,1,Discharged,2026-09-09 20:57:34,2.0,DOC003,4309.2
+EV00200,P0115,2026-08-24 20:29:00,2026-08-24,20,Monday,Moderate,Ambulance,Breathing Difficulty,General Medicine,41,32,0,Discharged,2026-08-25 00:42:00,0.18,DOC003,9657.66
+EV00200,P0116,2026-02-11 11:42:21,2026-02-11,11,Wednesday,High,Walk-in,Fracture,Orthopedics,2,48,1,Observation,2026-02-13 21:32:21,2.0,DOC005,7991.92
+EV00200,P0117,2026-03-04 06:30:31,2026-03-04,6,Wednesday,Moderate,Walk-in,Burn Injury,Emergency,29,53,0,Observation,2026-03-04 11:52:31,0.22,DOC001,15920.1
+EV00200,P0118,2026-07-13 09:49:37,2026-07-13,9,Monday,High,Walk-in,Chest Pain,Cardiology,12,57,0,Discharged,2026-07-13 11:58:37,0.09,DOC004,5639.33
+EV00200,P0119,2026-08-21 07:16:42,2026-08-21,7,Friday,Moderate,Walk-in,Burn Injury,Pediatrics,19,29,0,Observation,2026-08-21 14:04:42,0.28,DOC006,7091.38
+EV00200,P0120,2026-06-06 20:36:01,2026-06-06,20,Saturday,Critical,Walk-in,Fracture,Orthopedics,2,65,1,Observation,2026-06-08 01:43:01,1.0,DOC005,26991.64
+EV00200,P0121,2026-08-31 07:01:57,2026-08-31,7,Monday,Moderate,Walk-in,Asthma Attack,General Medicine,34,44,0,Observation,2026-08-31 10:19:57,0.14,DOC003,4223.8
+EV00200,P0122,2026-07-17 23:21:56,2026-07-17,23,Friday,Moderate,Walk-in,Pediatric Fever,Pediatrics,39,42,0,Observation,2026-07-18 02:42:56,0.14,DOC006,11227.68
+EV00200,P0123,2026-07-20 10:51:42,2026-07-20,10,Monday,Moderate,Ambulance,Breathing Difficulty,General Medicine,40,54,0,Observation,2026-07-20 17:25:42,0.27,DOC003,6585.62
+EV00200,P0124,2026-07-18 04:52:47,2026-07-18,4,Saturday,Moderate,Walk-in,Allergic Reaction,Emergency,55,32,1,Discharged,2026-07-20 12:19:47,2.0,DOC001,10839.68
+EV00200,P0125,2026-09-25 11:01:53,2026-09-25,11,Friday,Critical,Walk-in,Asthma Attack,General Medicine,21,65,0,Discharged,2026-09-25 18:27:53,0.31,DOC003,3029.96
+EV00200,P0126,2026-07-06 20:06:26,2026-07-06,20,Monday,Moderate,Ambulance,Breathing Difficulty,General Medicine,36,23,0,Discharged,2026-07-06 22:05:26,0.08,DOC003,10648.21
+EV00200,P0127,2026-02-12 22:18:01,2026-02-12,22,Thursday,Critical,Walk-in,Fever/Infection,General Medicine,15,84,1,Observation,2026-02-17 23:57:01,5.0,DOC003,23290.8
+EV00200,P0128,2026-07-21 16:28:40,2026-07-21,16,Tuesday,Moderate,Referral,Fever/Infection,General Medicine,25,23,0,Observation,2026-07-21 22:16:40,0.24,DOC003,6688.02
+EV00200,P0129,2026-05-18 20:11:38,2026-05-18,20,Monday,Low,Ambulance,Asthma Attack,General Medicine,51,13,0,Discharged,2026-05-18 23:15:38,0.13,DOC003,5598.91
+EV00200,P0130,2026-04-27 04:12:49,2026-04-27,4,Monday,Low,Referral,Fever/Infection,General Medicine,40,27,0,Observation,2026-04-27 08:19:49,0.17,DOC003,9052.62
+EV00200,P0131,2026-08-06 22:07:22,2026-08-06,22,Thursday,Moderate,Walk-in,Hypertensive Crisis,Cardiology,22,21,0,Observation,2026-08-07 01:50:22,0.15,DOC004,17219.27
+EV00200,P0132,2026-02-27 03:15:23,2026-02-27,3,Friday,Critical,Referral,Abdominal Pain,General Medicine,3,93,0,Observation,2026-02-27 06:51:23,0.15,DOC003,7696.03
+EV00200,P0133,2026-07-29 09:54:36,2026-07-29,9,Wednesday,Low,Ambulance,Abdominal Pain,General Medicine,58,35,0,Discharged,2026-07-29 12:27:36,0.11,DOC003,12321.14
+EV00200,P0134,2026-07-26 11:39:55,2026-07-26,11,Sunday,Moderate,Walk-in,Fever/Infection,General Medicine,43,18,1,Admitted,2026-07-29 12:40:55,3.0,DOC003,17389.72
+EV00200,P0135,2026-03-03 14:07:03,2026-03-03,14,Tuesday,Moderate,Referral,Pediatric Fever,Pediatrics,23,37,0,Observation,2026-03-03 18:07:03,0.17,DOC006,5709.14
+EV00200,P0136,2026-01-24 05:26:06,2026-01-24,5,Saturday,High,Walk-in,Hypertensive Crisis,Cardiology,5,50,0,Discharged,2026-01-24 10:21:06,0.2,DOC004,15974.61
+EV00200,P0137,2026-03-10 12:28:10,2026-03-10,12,Tuesday,Low,Walk-in,Chest Pain,Cardiology,31,25,0,Observation,2026-03-10 14:24:10,0.08,DOC004,959.4
+EV00200,P0138,2026-08-09 19:47:17,2026-08-09,19,Sunday,High,Referral,Severe Headache,Emergency,12,90,1,Observation,2026-08-12 05:29:17,2.0,DOC001,8849.96
+EV00200,P0139,2026-03-17 03:07:56,2026-03-17,3,Tuesday,High,Walk-in,Hypertensive Crisis,Cardiology,15,46,1,Transferred,2026-03-19 08:08:56,2.0,DOC004,10565.84
+EV00200,P0140,2026-03-17 06:23:37,2026-03-17,6,Tuesday,Moderate,Ambulance,Breathing Difficulty,General Medicine,27,42,1,Observation,2026-03-18 09:32:37,1.0,DOC003,9012.21
+EV00200,P0141,2026-04-07 13:57:59,2026-04-07,13,Tuesday,High,Walk-in,Chest Pain,Cardiology,13,55,1,Discharged,2026-04-08 19:05:59,1.0,DOC004,12043.35
+EV00200,P0142,2026-09-27 07:04:16,2026-09-27,7,Sunday,Critical,Walk-in,Fever/Infection,General Medicine,5,81,1,Transferred,2026-09-29 12:30:16,2.0,DOC003,12819.16
+EV00200,P0143,2026-03-28 00:27:50,2026-03-28,0,Saturday,Low,Walk-in,Fever/Infection,General Medicine,39,10,0,Observation,2026-03-28 06:16:50,0.24,DOC003,14594.31
+EV00200,P0144,2026-03-27 01:44:37,2026-03-27,1,Friday,High,Ambulance,Hypertensive Crisis,Cardiology,24,58,1,Transferred,2026-03-28 04:06:37,1.0,DOC004,16576.61
+EV00200,P0145,2026-02-13 19:51:42,2026-02-13,19,Friday,Low,Referral,Chest Pain,Cardiology,52,39,1,Observation,2026-02-16 06:22:42,2.0,DOC004,9207.84
+EV00200,P0146,2026-07-18 11:02:35,2026-07-18,11,Saturday,Low,Walk-in,Stroke Symptoms,Emergency,53,11,1,Observation,2026-07-20 22:06:35,2.0,DOC001,14678.94
+EV00200,P0147,2026-01-09 16:54:55,2026-01-09,16,Friday,High,Walk-in,Pediatric Fever,Pediatrics,18,59,1,Discharged,2026-01-10 19:11:55,1.0,DOC006,17761.56
+EV00200,P0148,2026-07-03 14:01:21,2026-07-03,14,Friday,High,Walk-in,Chest Pain,Cardiology,17,66,0,Observation,2026-07-03 18:24:21,0.18,DOC004,17877.13
+EV00200,P0149,2026-05-29 18:58:06,2026-05-29,18,Friday,Low,Referral,Stroke Symptoms,Emergency,58,12,0,Discharged,2026-05-30 02:08:06,0.3,DOC001,15596.93
+EV00200,P0150,2026-02-16 07:44:28,2026-02-16,7,Monday,Low,Walk-in,Breathing Difficulty,General Medicine,58,48,0,Discharged,2026-02-16 12:30:28,0.2,DOC003,8763.67
+EV00200,P0151,2026-07-31 16:35:54,2026-07-31,16,Friday,Moderate,Ambulance,Pediatric Fever,Pediatrics,50,35,1,Discharged,2026-08-03 18:00:54,3.0,DOC006,14723.02
+EV00200,P0152,2026-06-13 01:36:20,2026-06-13,1,Saturday,Low,Referral,Severe Headache,Emergency,55,25,1,Discharged,2026-06-14 02:56:20,1.0,DOC001,5009.43
+EV00200,P0153,2026-01-18 10:18:58,2026-01-18,10,Sunday,Moderate,Walk-in,Pediatric Fever,Pediatrics,38,35,1,Transferred,2026-01-19 14:31:58,1.0,DOC006,14831.52
+EV00200,P0154,2026-08-12 23:44:15,2026-08-12,23,Wednesday,Moderate,Ambulance,Fracture,Orthopedics,37,26,0,Discharged,2026-08-13 04:47:15,0.21,DOC005,5968.62
+EV00200,P0155,2026-01-24 22:09:58,2026-01-24,22,Saturday,Low,Referral,Allergic Reaction,Emergency,59,16,0,Observation,2026-01-25 00:24:58,0.09,DOC001,17523.39
+EV00200,P0156,2026-09-08 02:08:25,2026-09-08,2,Tuesday,Moderate,Walk-in,Asthma Attack,General Medicine,32,23,1,Admitted,2026-09-10 06:03:25,2.0,DOC003,5972.67
+EV00200,P0157,2026-02-26 07:27:20,2026-02-26,7,Thursday,Moderate,Walk-in,Hypertensive Crisis,Cardiology,25,24,0,Observation,2026-02-26 10:16:20,0.12,DOC004,5185.93
+EV00200,P0158,2026-05-09 12:16:27,2026-05-09,12,Saturday,Critical,Walk-in,Asthma Attack,General Medicine,12,59,0,Discharged,2026-05-09 16:27:27,0.17,DOC003,13117.12
+EV00200,P0159,2026-08-24 04:43:26,2026-08-24,4,Monday,Critical,Walk-in,Severe Headache,Emergency,15,75,0,Discharged,2026-08-24 10:13:26,0.23,DOC001,7907.21
+EV00200,P0160,2026-05-10 13:27:08,2026-05-10,13,Sunday,Low,Walk-in,Abdominal Pain,General Medicine,39,53,1,Observation,2026-05-11 17:59:08,1.0,DOC003,12764.77
+EV00200,P0161,2026-03-21 16:12:02,2026-03-21,16,Saturday,Low,Walk-in,Pediatric Fever,Pediatrics,51,13,0,Observation,2026-03-21 20:16:02,0.17,DOC006,5298.86
+EV00200,P0162,2026-07-19 09:47:47,2026-07-19,9,Sunday,Moderate,Ambulance,Stroke Symptoms,Emergency,32,14,1,Admitted,2026-07-20 19:33:47,1.0,DOC001,15662.26
+EV00200,P0163,2026-02-26 22:05:53,2026-02-26,22,Thursday,High,Referral,Chest Pain,Cardiology,24,44,1,Transferred,2026-02-28 02:13:53,1.0,DOC004,7333.24
+EV00200,P0164,2026-04-06 16:22:11,2026-04-06,16,Monday,Moderate,Referral,Stroke Symptoms,Emergency,27,52,0,Observation,2026-04-06 21:41:11,0.22,DOC001,3693.62
+EV00200,P0165,2026-05-18 00:31:11,2026-05-18,0,Monday,High,Walk-in,Breathing Difficulty,General Medicine,24,78,0,Discharged,2026-05-18 07:13:11,0.28,DOC003,1381.77
+EV00200,P0166,2026-01-30 02:48:34,2026-01-30,2,Friday,Moderate,Ambulance,Burn Injury,Emergency,21,47,1,Admitted,2026-02-02 08:56:34,3.0,DOC001,1839.74
+EV00200,P0167,2026-09-05 22:03:40,2026-09-05,22,Saturday,Low,Referral,Asthma Attack,Pediatrics,50,23,0,Observation,2026-09-06 00:16:40,0.09,DOC006,1087.69
+EV00200,P0168,2026-04-17 22:46:09,2026-04-17,22,Friday,Low,Walk-in,Allergic Reaction,Emergency,48,31,0,Discharged,2026-04-18 01:05:09,0.1,DOC001,16590.44
+EV00200,P0169,2026-07-23 21:37:34,2026-07-23,21,Thursday,High,Ambulance,Breathing Difficulty,General Medicine,6,54,0,Discharged,2026-07-24 01:37:34,0.17,DOC003,17299.92
+EV00200,P0170,2026-06-28 12:10:08,2026-06-28,12,Sunday,High,Ambulance,Severe Headache,Emergency,25,48,1,Discharged,2026-07-02 14:23:08,4.0,DOC001,7770.79
+EV00200,P0171,2026-05-27 17:28:30,2026-05-27,17,Wednesday,Moderate,Ambulance,Allergic Reaction,Emergency,34,30,0,Observation,2026-05-27 23:32:30,0.25,DOC001,17610.06
+EV00200,P0172,2026-02-07 06:50:12,2026-02-07,6,Saturday,Low,Walk-in,Allergic Reaction,Emergency,59,14,0,Observation,2026-02-07 09:03:12,0.09,DOC001,16695.54
+EV00200,P0173,2026-09-24 01:20:17,2026-09-24,1,Thursday,Low,Walk-in,Abdominal Pain,Pediatrics,67,30,1,Admitted,2026-09-25 08:57:17,1.0,DOC006,16776.65
+EV00200,P0174,2026-04-27 11:27:46,2026-04-27,11,Monday,Moderate,Walk-in,Breathing Difficulty,General Medicine,28,45,0,Observation,2026-04-27 18:40:46,0.3,DOC003,3207.15
+EV00200,P0175,2026-09-25 22:50:23,2026-09-25,22,Friday,Critical,Ambulance,Diabetes Complication,General Medicine,2,66,1,Discharged,2026-09-30 04:58:23,4.0,DOC003,20176.02
+EV00200,P0176,2026-08-27 15:38:19,2026-08-27,15,Thursday,Moderate,Ambulance,Severe Headache,Emergency,41,36,0,Observation,2026-08-27 18:55:19,0.14,DOC001,6919.95
+EV00200,P0177,2026-05-27 01:13:59,2026-05-27,1,Wednesday,High,Walk-in,Pediatric Fever,Pediatrics,7,69,1,Admitted,2026-05-29 04:29:59,2.0,DOC006,7336.0
+EV00200,P0178,2026-09-04 10:23:04,2026-09-04,10,Friday,Moderate,Walk-in,Breathing Difficulty,General Medicine,31,35,1,Transferred,2026-09-06 15:29:04,2.0,DOC003,2558.38
+EV00200,P0179,2026-02-04 03:40:09,2026-02-04,3,Wednesday,Moderate,Walk-in,Breathing Difficulty,General Medicine,31,34,1,Discharged,2026-02-05 10:45:09,1.0,DOC003,1012.26
+EV00200,P0180,2026-06-10 22:59:21,2026-06-10,22,Wednesday,Low,Ambulance,Pediatric Fever,Pediatrics,41,10,1,Admitted,2026-06-12 09:50:21,1.0,DOC006,7348.59
+EV00200,P0181,2026-02-24 04:04:59,2026-02-24,4,Tuesday,Moderate,Walk-in,Abdominal Pain,General Medicine,42,39,0,Observation,2026-02-24 06:25:59,0.1,DOC003,7011.35
+EV00200,P0182,2026-04-07 00:23:09,2026-04-07,0,Tuesday,Moderate,Walk-in,Diabetes Complication,Pediatrics,36,40,1,Observation,2026-04-08 06:39:09,1.0,DOC006,8371.83
+EV00200,P0183,2026-06-17 11:38:02,2026-06-17,11,Wednesday,Low,Ambulance,Burn Injury,Emergency,59,16,0,Discharged,2026-06-17 16:53:02,0.22,DOC001,6203.95
+EV00200,P0184,2026-06-04 21:51:42,2026-06-04,21,Thursday,High,Ambulance,Fracture,Orthopedics,14,39,1,Observation,2026-06-07 02:44:42,2.0,DOC005,14843.71
+EV00200,P0185,2026-06-02 20:25:15,2026-06-02,20,Tuesday,High,Walk-in,Fracture,Orthopedics,9,46,0,Discharged,2026-06-03 03:20:15,0.29,DOC005,8739.9
+EV00200,P0186,2026-03-23 16:03:52,2026-03-23,16,Monday,Low,Ambulance,Stroke Symptoms,Emergency,64,34,0,Observation,2026-03-23 19:41:52,0.15,DOC001,11693.38
+EV00200,P0187,2026-04-05 05:48:02,2026-04-05,5,Sunday,Moderate,Ambulance,Abdominal Pain,General Medicine,35,30,0,Observation,2026-04-05 11:53:02,0.25,DOC003,7693.85
+EV00200,P0188,2026-07-16 23:58:19,2026-07-16,23,Thursday,Moderate,Walk-in,Burn Injury,Emergency,36,24,0,Discharged,2026-07-17 01:58:19,0.08,DOC001,14026.01
+EV00200,P0189,2026-09-13 15:17:29,2026-09-13,15,Sunday,Moderate,Ambulance,Asthma Attack,General Medicine,57,44,0,Observation,2026-09-13 19:58:29,0.2,DOC003,17410.33
+EV00200,P0190,2026-06-17 10:08:11,2026-06-17,10,Wednesday,Critical,Walk-in,Accident/Trauma,Orthopedics,2,69,0,Discharged,2026-06-17 15:19:11,0.22,DOC005,13022.74
+EV00200,P0191,2026-06-30 02:03:42,2026-06-30,2,Tuesday,Moderate,Ambulance,Hypertensive Crisis,Cardiology,51,68,0,Observation,2026-06-30 08:02:42,0.25,DOC004,16633.42
+EV00200,P0192,2026-02-03 14:13:29,2026-02-03,14,Tuesday,Low,Ambulance,Accident/Trauma,Orthopedics,45,33,0,Observation,2026-02-03 18:31:29,0.18,DOC005,8990.0
+EV00200,P0193,2026-06-20 10:00:09,2026-06-20,10,Saturday,Moderate,Walk-in,Diabetes Complication,General Medicine,30,55,1,Transferred,2026-06-21 13:25:09,1.0,DOC003,16794.67
+EV00200,P0194,2026-04-05 23:26:00,2026-04-05,23,Sunday,High,Walk-in,Allergic Reaction,Emergency,8,26,1,Observation,2026-04-07 10:00:00,1.0,DOC001,3972.57
+EV00200,P0195,2026-09-06 23:41:44,2026-09-06,23,Sunday,Moderate,Walk-in,Asthma Attack,General Medicine,31,29,0,Observation,2026-09-07 01:41:44,0.08,DOC003,12921.45
+EV00200,P0196,2026-03-22 04:03:01,2026-03-22,4,Sunday,Low,Ambulance,Abdominal Pain,General Medicine,53,27,0,Discharged,2026-03-22 08:23:01,0.18,DOC003,6406.94
+EV00200,P0197,2026-06-27 22:40:44,2026-06-27,22,Saturday,High,Referral,Accident/Trauma,Orthopedics,6,52,0,Observation,2026-06-28 04:38:44,0.25,DOC005,2764.79
+EV00200,P0198,2026-05-17 22:44:14,2026-05-17,22,Sunday,Moderate,Walk-in,Burn Injury,Emergency,28,15,0,Discharged,2026-05-18 05:27:14,0.28,DOC001,3103.9
+EV00200,P0199,2026-02-16 00:33:00,2026-02-16,0,Monday,Moderate,Walk-in,Fever/Infection,General Medicine,31,21,0,Discharged,2026-02-16 06:25:00,0.24,DOC003,7399.81
+EV00200,P0200,2026-03-14 09:20:59,2026-03-14,9,Saturday,Moderate,Ambulance,Stroke Symptoms,Emergency,14,10,0,Observation,2026-03-14 12:44:59,0.14,DOC001,3213.1
